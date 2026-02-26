@@ -17,7 +17,7 @@
 - ⚡ Temiz kod ve yüksek performans odaklıyım  
 - 🎯 Profesyonel ve premium projeler üretiyorum
 - 🌐 Yapay zeka odaklı bir web sitesi geliştirdim.
-- https://www.neruotech.com/ 
+                   (NeruoTech)
 
 ---
 
