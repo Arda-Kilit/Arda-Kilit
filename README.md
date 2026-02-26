@@ -120,13 +120,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-<img src="https://raw.githubusercontent.com/Arda-Kilit/Arda-Kilit/output/snake.svg" />
-</p>
-
----
-
 ## 🌐 Sosyal & İletişim
 <p align="center">
 <a href="mailto:mailadresin@gmail.com">
