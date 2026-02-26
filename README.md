@@ -17,7 +17,7 @@
 - ⚡ Temiz kod ve yüksek performans odaklıyım  
 - 🎯 Profesyonel ve premium projeler üretiyorum
 - 🌐 Yapay zeka odaklı bir web sitesi geliştirdim.(<a href="https://www.neruotech.com/">NeruoTech</a>)
-- 📚 Şahsıma ait ve projelerimi tanıttığım blog sitesi tasarladım.(ArdasBlogger - https://ardasblogger.neruotech.com/) 
+- 📚 Şahsıma ait ve projelerimi tanıttığım blog sitesi tasarladım.(<a href="https://ardasblogger.neruotech.com/">ArdasBlogger</a>) 
 
 ---
 
