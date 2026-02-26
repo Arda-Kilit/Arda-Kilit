@@ -1,4 +1,4 @@
-<!-- ELITE PROFESSIONAL NEON PROFILE -->
+<!-- ELITE PREMIUM PROFESSIONAL PROFILE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Arda%20Kilit&fontSize=60&animation=fadeIn&fontColor=FF00FF,00FFFF,FF8C00,00FF00" />
 </p>
@@ -99,15 +99,16 @@
 
 ---
 
-## 🏆 Trophy Matrix
+## 🏆 Trophy Matrix (Kesin Görünecek)
 <p align="center">
-  <a href="https://github.com/Arda-Kilit">
-    <img src="https://github-profile-trophy.vercel.app/?username=Arda-Kilit&theme=matrix&no-frame=false&margin-w=15&margin-h=15" title="Kupa Matrisi"/>
-  </a>
+<a href="https://github.com/Arda-Kilit">
+<img src="https://github-profile-trophy.vercel.app/?username=Arda-Kilit&theme=matrix&no-frame=false&margin-w=15&margin-h=15" title="Kupa Matrisi" />
+</a>
 </p>
 <p align="center">
-  <em>💎 Tüm başarılarım ve ödüllerim burada! Hover yaparak detayları görebilirsin.</em>
+<em>💎 Tüm başarılarım ve ödüllerim burada! Hover yaparak detayları görebilirsin.</em>
 </p>
+
 ---
 
 ## 📈 Activity Graph
@@ -117,7 +118,7 @@
 
 ---
 
-## 🐍 Contribution Snake (sonradan aktif edilecek)
+## 🐍 Contribution Snake
 <p align="center">
 <img src="https://raw.githubusercontent.com/Arda-Kilit/Arda-Kilit/output/snake.svg" />
 </p>
