@@ -101,9 +101,13 @@
 
 ## 🏆 Trophy Matrix
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Arda-Kilit&theme=matrix&no-frame=true&margin-w=15&margin-h=15" />
+  <a href="https://github.com/Arda-Kilit">
+    <img src="https://github-profile-trophy.vercel.app/?username=Arda-Kilit&theme=matrix&no-frame=false&margin-w=15&margin-h=15" title="Kupa Matrisi"/>
+  </a>
 </p>
-
+<p align="center">
+  <em>💎 Tüm başarılarım ve ödüllerim burada! Hover yaparak detayları görebilirsin.</em>
+</p>
 ---
 
 ## 📈 Activity Graph
