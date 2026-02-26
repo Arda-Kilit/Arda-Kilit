@@ -1,12 +1,12 @@
-<!-- ELITE PREMIUM NEON PROFILE -->
+<!-- ELITE PROFESSIONAL NEON PROFILE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Arda%20Kilit&fontSize=60&animation=fadeIn&fontColor=FF00FF,00FFFF,FFFF00,FF4500" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Arda%20Kilit&fontSize=60&animation=fadeIn&fontColor=FF00FF,00FFFF,FF8C00,00FF00" />
 </p>
 
-<h1 align="center">🚀 Elite Full Stack Developer | System Architect</h1>
+<h1 align="center">💻 Web & Software Developer | System Architect</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=500&color=FF00FF,00FFFF,FFFF00,00FF00&center=true&vCenter=true&width=900&lines=Epic+Game+Store+Style+Developer;C%23+%7C+.NET+Expert;Web+%26+Game+Platform+Engineer;UI/UX+Focused;High+Performance+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=500&color=FF00FF,00FFFF,FF8C00,00FF00&center=true&vCenter=true&width=900&lines=Web+%26+Software+Developer;UI/UX+Focused;High+Performance+⚡;Modern+Systems+%26+Game+Platforms" />
 </p>
 
 ---
@@ -89,12 +89,12 @@
 
 ## 📊 GitHub İstatistikleri
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Arda-Kilit&show_icons=true&theme=radical&border_radius=25&count_private=true&bg_color=0d1117&title_color=FF00FF&icon_color=00FFFF" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Arda-Kilit&theme=radical&border_radius=25&background=0d1117&stroke=FF00FF&ring=00FFFF&fire=FF4500" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Arda-Kilit&show_icons=true&theme=dracula&border_radius=25&count_private=true&bg_color=0d1117&title_color=FF00FF&icon_color=00FFFF" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Arda-Kilit&theme=dracula&border_radius=25&background=0d1117&stroke=FF00FF&ring=00FFFF&fire=FF4500" />
 </p>
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arda-Kilit&layout=compact&theme=radical&border_radius=25&bg_color=0d1117&title_color=FF00FF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arda-Kilit&layout=compact&theme=dracula&border_radius=25&bg_color=0d1117&title_color=FF00FF" />
 </p>
 
 ---
@@ -113,7 +113,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake (sonradan aktif edilecek)
 <p align="center">
 <img src="https://raw.githubusercontent.com/Arda-Kilit/Arda-Kilit/output/snake.svg" />
 </p>
