@@ -108,7 +108,7 @@
   <img src="https://img.shields.io/badge/Game_Platform_Expert-FF00FF?style=for-the-badge&logo=unity" title="Game Platform Expert" />
 </p>
 <p align="center">
-  <em>💎 Tüm başarılarım ve ödüllerim burada! Premium ve kesinlikle gözüküyor.</em>
+  <em>💎 Tüm başarılarım ve ödüllerim burada!</em>
 </p>
 
 ---
