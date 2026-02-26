@@ -99,14 +99,16 @@
 
 ---
 
-## 🏆 Trophy Matrix (Kesin Görünecek)
+## 🏆 Achievements & Badges
 <p align="center">
-<a href="[https://github.com/Arda-Kilit](https://github.com/Arda-Kilit)">
-<img src="https://github-profile-trophy.vercel.app/?username=Arda-Kilit&theme=matrix&no-frame=false&margin-w=15&margin-h=15" title="Kupa Matrisi" />
-</a>
+  <img src="https://img.shields.io/badge/Top_Contributor-FF00FF?style=for-the-badge&logo=github" title="Top Contributor" />
+  <img src="https://img.shields.io/badge/High_Performance-00FFFF?style=for-the-badge&logo=appveyor" title="High Performance" />
+  <img src="https://img.shields.io/badge/Projects-FF8C00?style=for-the-badge&logo=git" title="Projects" />
+  <img src="https://img.shields.io/badge/Code_Master-00FF00?style=for-the-badge&logo=visual-studio-code" title="Code Master" />
+  <img src="https://img.shields.io/badge/Game_Platform_Expert-FF00FF?style=for-the-badge&logo=unity" title="Game Platform Expert" />
 </p>
 <p align="center">
-<em>💎 Tüm başarılarım ve ödüllerim burada! Hover yaparak detayları görebilirsin.</em>
+  <em>💎 Tüm başarılarım ve ödüllerim burada! Premium ve kesinlikle gözüküyor.</em>
 </p>
 
 ---
