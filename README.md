@@ -16,7 +16,7 @@
 - 🖥 Modern UI/UX & Backend sistemleri kuruyorum  
 - ⚡ Temiz kod ve yüksek performans odaklıyım  
 - 🎯 Profesyonel ve premium projeler üretiyorum
-- 🌐 Yapay zeka odaklı bir web sitesi geliştirdim.(<img src="https://img.shields.io/badge/Neruotech-Visit%20Blog-FF6EC7?style=for-the-badge&logo=medium&logoColor=white&animation=glow" />)
+- 🌐 Yapay zeka odaklı bir web sitesi geliştirdim.(<a href="https://www.neruotech.com/"></a>)
 - 📚 Şahsıma ait ve projelerimi tanıttığım blog sitesi tasarladım.(ArdasBlogger - https://ardasblogger.neruotech.com/) 
 
 ---
