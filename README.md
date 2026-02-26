@@ -101,7 +101,7 @@
 
 ## 🏆 Trophy Matrix (Kesin Görünecek)
 <p align="center">
-<a href="https://github.com/Arda-Kilit">
+<a href="[https://github.com/Arda-Kilit](https://github.com/Arda-Kilit)">
 <img src="https://github-profile-trophy.vercel.app/?username=Arda-Kilit&theme=matrix&no-frame=false&margin-w=15&margin-h=15" title="Kupa Matrisi" />
 </a>
 </p>
