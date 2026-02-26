@@ -12,10 +12,12 @@
 ---
 
 ## 👨‍💻 Hakkımda
-- 🎮 Epic Games tarzı oyun mağazası sistemleri geliştiriyorum  
+- 🎮 Epic Games tarzı bir web sitesi geliştirdim 
 - 🖥 Modern UI/UX & Backend sistemleri kuruyorum  
 - ⚡ Temiz kod ve yüksek performans odaklıyım  
-- 🎯 Profesyonel ve premium projeler üretiyorum  
+- 🎯 Profesyonel ve premium projeler üretiyorum
+- 🌐 Yapay zeka odaklı bir web sitesi geliştirdim.
+- https://www.neruotech.com/ 
 
 ---
 
