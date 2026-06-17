@@ -1,78 +1,85 @@
 <div align="center">
 
-<!-- HEADER ANIMATION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=ARDA%20KILIT&fontSize=60&animation=fadeIn&fontColor=ffffff&desc=System%20Architect%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Solutions&descSize=25" />
+<!-- HEADLINE ANIMATION -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=ARDA%20KILIT&fontSize=70&animation=fadeIn&fontColor=ffffff&desc=SYSTEM%20ARCHITECT%20%7C%20SOFTWARE%20ENGINEER&descSize=20" />
 
-# 💻 Software Engineering & System Architecture
+<!-- KEY HIGHLIGHTS -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00f2ff&center=true&vCenter=true&width=800&lines=System+Architect+Expertise;High-Performance+Backend+Development;Modern+Cloud-Native+Solutions;Advanced+Hardware-Software+Integration" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=38bdf8&center=true&vCenter=true&width=800&lines=Full-Stack+System+Design;High-Performance+Backend+Architectures;Advanced+UI-UX+Engineering;AI+Integrated+Software+Solutions" />
 </p>
 
-<!-- SOCIAL BADGES -->
+<!-- SOCIAL NAVIGATION -->
 <p align="center">
-  <a href="https://www.neruotech.com/"><img src="https://img.shields.io/badge/Website-Neruotech-2563eb?style=for-the-badge&logo=internetexplorer&logoColor=white" /></a>
-  <a href="https://ardasblogger.neruotech.com/"><img src="https://img.shields.io/badge/Blog-ArdasBlogger-7c3aed?style=for-the-badge&logo=read-the-docs&logoColor=white" /></a>
-  <a href="mailto:mailadresin@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-dc2626?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.neruotech.com/"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=internetexplorer&logoColor=38bdf8" /></a>
+  <a href="https://ardasblogger.neruotech.com/"><img src="https://img.shields.io/badge/BLOG-000000?style=for-the-badge&logo=read-the-docs&logoColor=38bdf8" /></a>
+  <a href="https://linkedin.com/in/linkin"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=38bdf8" /></a>
 </p>
 
 ---
 
-## 🚀 Technical Expertise
-*I build scalable, robust, and high-performance software architectures.*
+## 🛠 CORE ENGINEERING COMPETENCIES
 
-| **Core Domain** | **Tech Stack & Tools** |
+| CATEGORY | TECH STACK |
 | :--- | :--- |
-| **Backend & Systems** | <img src="https://skillicons.dev/icons?i=dotnet,nodejs,go,rust,postgres,redis" /> |
-| **Frontend & UI** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css" /> |
-| **DevOps & Infrastructure** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,linux,git" /> |
-| **Hardware & Design** | <img src="https://skillicons.dev/icons?i=cpp,arduino,figma,vscode,visualstudio" /> |
+| **BACKEND SYSTEMS** | <img src="https://skillicons.dev/icons?i=dotnet,nodejs,go,rust,postgres,redis" /> |
+| **FRONTEND ENGINE** | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css" /> |
+| **DEVOPS & CLOUD** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,linux" /> |
+| **TOOLS & HARDWARE**| <img src="https://skillicons.dev/icons?i=cpp,arduino,figma,vscode,postman" /> |
 
 ---
 
-## 📊 Engineering Analytics & Performance
-*Quantifiable impact and professional commitment to code.*
+## 🏗 SYSTEM ARCHITECTURE FOCUS
+*Engineering philosophy centered on scalability and maintainability.*
+
+<details align="left">
+  <summary><b>View Architecture Standards</b></summary>
+  <ul>
+    <li><b>Scalability:</b> Microservices-oriented design patterns.</li>
+    <li><b>Data Integrity:</b> Advanced relational modeling (PostgreSQL <code>ltree</code>).</li>
+    <li><b>Performance:</b> Optimized hardware-level execution (CPU/Memory profiling).</li>
+    <li><b>UI/UX:</b> Component-based design systems for modularity.</li>
+  </ul>
+</details>
+
+---
+
+## 📊 ANALYTICS DASHBOARD
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arda-Kilit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00f2ff&icon_color=00f2ff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arda-Kilit&theme=tokyonight&hide_border=true&ring=00f2ff&fire=00f2ff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arda-Kilit&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=ffffff&icon_color=38bdf8&bg_color=000000" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arda-Kilit&theme=tokyonight&hide_border=true&ring=38bdf8&fire=38bdf8&background=000000" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arda-Kilit&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2ff" width="97%" />
-</div>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arda-Kilit&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&bg_color=000000" width="100%" />
 
 ---
 
-## 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arda-Kilit&theme=tokyonight&hide_border=true&color=00f2ff&line=00f2ff&point=ffffff&area=true" width="100%" />
+## 📈 CONTRIBUTION VECTORS
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arda-Kilit&theme=tokyonight&hide_border=true&color=38bdf8&line=38bdf8&point=ffffff&area=true&bg_color=000000" width="100%" />
 
 ---
 
-## 🏆 Selected Engineering Projects
-*Systems designed to solve real-world problems with high-efficiency.*
+## 🚀 FEATURED INITIATIVES
 
-- **Evrim Ağacı + Personal Archive System:** PostgreSQL `ltree` mimarisiyle hiyerarşik veri yönetimi ve özel UI/UX arayüzü.
-- **Embedded Morse Module:** Arduino Nano tabanlı, 3D baskı snap-fit kasalı gerçek zamanlı sinyal işleme modülü.
-- **Neruotech Ecosystem:** AI-entegreli, ölçeklenebilir kurumsal web mimarileri.
-
----
-
-## 🎓 Career Roadmap
-- **Current:** High-achieving secondary education (Valedictorian candidate).
-- **Target:** Computer Programming (Associate Degree) → Software Engineering (Bachelors).
-- **Vision:** Engineering future-proof, AI-driven backend systems.
+- **Neruotech AI Ecosystem:** End-to-end enterprise platform development.
+- **Hierarchical Archive Engine:** Implementing <code>ltree</code> for complex data structures.
+- **Embedded Logic Design:** 3D-printable, Arduino-based tactical hardware units.
 
 ---
 
-## ⚙️ Development Environment
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,docker,kubernetes,git,github,postman,figma,linux,aws" />
-</p>
+## 🎓 ACADEMIC TRAJECTORY
+*Driven by academic excellence and professional focus.*
+
+*   **Valedictorian Candidate** (Secondary Education)
+*   **Path:** Computer Programming (Associate) ➔ Software Engineering (Bachelors)
+*   **Mission:** Architecting the next generation of intelligent software systems.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Keep%20Coding%20%7C%20Keep%20Innovating&fontSize=30&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer&text=ENGINEERING%20THE%20FUTURE&fontSize=30&fontColor=ffffff" />
 </p>
 
 </div>
