@@ -1,82 +1,82 @@
 <div align="center">
 
-<!-- HEADER SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Arda%20Kilit&fontSize=60&animation=fadeIn&fontColor=FF00FF,00FFFF,FF8C00,00FF00" />
+<!-- HEADER: ANIMATED WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Arda%20Kilit&fontSize=60&animation=fadeIn&fontColor=ffffff" />
 
-<h1 align="center">💻 Web & Software Developer | System Architect</h1>
-
+<!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=500&color=FF00FF,00FFFF,FF8C00,00FF00&center=true&vCenter=true&width=900&lines=Web+%26+Software+Developer;UI/UX+Focused;High+Performance+⚡;Modern+Systems+%26+Game+Platforms" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=500&color=38bdf8&center=true&vCenter=true&width=800&lines=System+Architect;Full-Stack+Software+Developer;High-Performance+Computing+Expert;Scalable+Cloud+Infrastructure" />
+</p>
+
+<!-- ACTION BUTTONS -->
+<p align="center">
+  <a href="https://www.neruotech.com/"><img src="https://img.shields.io/badge/WEBSITE-0ea5e9?style=for-the-badge&logo=internetexplorer&logoColor=white" /></a>
+  <a href="https://ardasblogger.neruotech.com/"><img src="https://img.shields.io/badge/BLOG-6366f1?style=for-the-badge&logo=read-the-docs&logoColor=white" /></a>
+  <a href="mailto:mailadresin@gmail.com"><img src="https://img.shields.io/badge/EMAIL-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/linkin"><img src="https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-## 👨‍💻 Hakkımda
-<div align="left">
-- 🎮 <b>Oyun Geliştirme:</b> Epic Games benzeri web platformları tasarlıyorum.<br>
-- 🖥 <b>UI/UX & Mimari:</b> Modern arayüzler ve ölçeklenebilir backend sistemleri geliştiriyorum.<br>
-- ⚡ <b>Performans:</b> Temiz, optimize edilmiş ve yüksek verimli kod yazma tutkusu.<br>
-- 🎯 <b>Vizyon:</b> Yapay zeka entegreli, profesyonel ve premium dijital ürünler.<br>
-</div>
+## 👨‍💻 PROFESSIONAL PROFILE
+*I architect digital solutions that combine high-performance logic with modern user experiences.*
 
-<br>
-
-<div align="center">
-  <a href="https://www.neruotech.com/"><img src="https://img.shields.io/badge/Neruotech-87CEFA?style=for-the-badge&logo=medium&logoColor=white&animation=glow" /></a>
-  <a href="https://ardasblogger.neruotech.com/"><img src="https://img.shields.io/badge/ArdasBlogger-FF6EC7_8A2BE2?style=for-the-badge&logo=medium&logoColor=white&animation=glow" /></a>
-</div>
-
----
-
-## 🛠 Teknik Yetkinlikler (Stack Matrix)
-
-| Domain | Tecnologies |
+| **Core Pillars** | **Technical Approach** |
 | :--- | :--- |
-| **Programlama** | <img src="https://skillicons.dev/icons?i=cs,cpp,java,python,js,ts,go,rust,php,kotlin,swift,dart,ruby,scala,bash,powershell" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,bootstrap,tailwind,sass" /> |
-| **Backend & DB** | <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,flask,spring,mysql,postgres,mongodb,firebase" /> |
-| **Araçlar & Cloud** | <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,azure,aws,vscode,visualstudio,figma" /> |
+| **System Architecture** | Modular, scalable, and secure microservices. |
+| **User Experience** | Modern UI/UX with high-performance rendering. |
+| **Data Management** | Optimized PostgreSQL & NoSQL database schemas. |
+| **Innovation** | AI-integrated workflows and custom automation. |
 
 ---
 
-## 📊 GitHub Analitikleri
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Arda-Kilit&show_icons=true&theme=dracula&border_radius=25&count_private=true&bg_color=0d1117&title_color=FF00FF&icon_color=00FFFF" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Arda-Kilit&theme=dracula&border_radius=25&background=0d1117&stroke=FF00FF&ring=00FFFF&fire=FF4500" />
-</p>
+## 🚀 TECH STACK MATRIX
+*Engineering toolkit for enterprise-grade development.*
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arda-Kilit&layout=compact&theme=dracula&border_radius=25&bg_color=0d1117&title_color=FF00FF" />
-</p>
-
----
-
-## 🏆 Başarılar & Sertifikalar
-<p align="center">
-  <img src="https://img.shields.io/badge/Top_Contributor-FF00FF?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/High_Performance-00FFFF?style=for-the-badge&logo=appveyor" />
-  <img src="https://img.shields.io/badge/Projects-FF8C00?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Code_Master-00FF00?style=for-the-badge&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/Game_Platform_Expert-FF00FF?style=for-the-badge&logo=unity" />
-</p>
+| Domain | Proficiency |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=cs,cpp,java,python,js,ts,go,rust" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,flask,spring,postgres,redis" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,sass" /> |
+| **DevOps** | <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,linux,git" /> |
 
 ---
 
-## 📈 Geliştirici Aktivite Grafiği
+## 📊 ENGINEERING METRICS
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arda-Kilit&theme=react-dark&bg_color=0d1117&color=FF00FF&line=00FFFF&point=FFFF00&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arda-Kilit&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arda-Kilit&theme=tokyonight&hide_border=true&ring=38bdf8&fire=38bdf8&background=0d1117" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arda-Kilit&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&bg_color=0d1117" width="97%" />
 </p>
 
 ---
 
-## 🌐 Sosyal İletişim
+## 📈 CONTRIBUTION VECTORS
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arda-Kilit&theme=tokyonight&hide_border=true&color=38bdf8&line=38bdf8&point=ffffff&area=true&bg_color=0d1117" width="100%" />
+
+---
+
+## 🏆 KEY ACHIEVEMENTS
 <p align="center">
-  <a href="mailto:mailadresin@gmail.com"><img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-  <a href="https://linkedin.com/in/linkin"><img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/System_Architect-000000?style=for-the-badge&logo=appveyor&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Full_Stack_Expert-000000?style=for-the-badge&logo=react&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Performance_Focused-000000?style=for-the-badge&logo=git&logoColor=38bdf8" />
 </p>
 
-<br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
+## 📋 RECENT INITIATIVES
+*   **Evrim Ağacı + Personal Archive:** Hierarchical database management using PostgreSQL `ltree`.
+*   **Embedded Systems:** Arduino-based tactical hardware units with custom firmware.
+*   **AI Integration:** Advanced algorithmic processing for modern web interfaces.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=footer&text=ENGINEERING%20EXCELLENCE&fontSize=30&fontColor=ffffff" />
+</p>
 
 </div>
