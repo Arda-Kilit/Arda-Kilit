@@ -262,7 +262,7 @@
 
 </a>
 
-<a href="https://linkedin.com/in/linkin">
+<a href="https://www.linkedin.com/in/arda-kilit-782bb03bb?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 
   <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 
